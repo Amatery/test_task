@@ -1,0 +1,29 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amatery/test_task.git"
+  },
+  "author": "Aliaksei Lesik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amatery/test_task/issues"
+  },
+  "homepage": "https://github.com/Amatery/test_task#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "pg": "^8.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.13",
+    "@types/pg": "^8.11.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
